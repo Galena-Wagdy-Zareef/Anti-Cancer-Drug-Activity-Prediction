@@ -25,15 +25,15 @@ This competition challenges you to predict the anti-cancer activity of chemical 
 
 **Answer the Questions:**
 
-🌈 Describe the SDF file format.
+- Describe the SDF file format.
 
-🌈 Explain the meaning and dimensions of input tensors to the neural network model.
+- Explain the meaning and dimensions of input tensors to the neural network model.
 
-🌈 Define the symbolism of each dimension of gnn_out and avg tensors.
+- Define the symbolism of each dimension of gnn_out and avg tensors.
 
-🌈 Differentiate between segment_mean and tf.reduce_mean. Interpret the meaning of each dimension of the pred tensor.
+- Differentiate between segment_mean and tf.reduce_mean. Interpret the meaning of each dimension of the pred tensor.
 
-🌈 Explore the motivation for employing multiple GCN layers compared to just one, along with the number of layers used in the template.
+- Explore the motivation for employing multiple GCN layers compared to just one, along with the number of layers used in the template.
 
 **Evaluation Criteria:**
 
