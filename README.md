@@ -11,17 +11,15 @@ This competition challenges you to predict the anti-cancer activity of chemical 
 
 **Key Tasks:**
 
-1. **Meme Competition**: Share a favorite meme related to data science, adding a touch of fun to the challenge.
+1. **Understanding the Template**: Comment extensively on each code line, demonstrating comprehension of the provided template. Explain the experimental protocol, hyper-parameter tuning, search space, and criteria for evaluating hyper-parameters.
 
-2. **Understanding the Template**: Comment extensively on each code line, demonstrating comprehension of the provided template. Explain the experimental protocol, hyper-parameter tuning, search space, and criteria for evaluating hyper-parameters.
+2. **Problem Formulation**: Define the input, output, required data mining function, challenges, and impact. Envision an ideal solution.
 
-3. **Problem Formulation**: Define the input, output, required data mining function, challenges, and impact. Envision an ideal solution.
+3. **Model Tuning and Documentation**: Improve model performance using a structured data science lifecycle. Experiment with features, hyperparameters, and models. Record reasons, expectations, and outcomes for each attempt.
 
-4. **Model Tuning and Documentation**: Improve model performance using a structured data science lifecycle. Experiment with features, hyperparameters, and models. Record reasons, expectations, and outcomes for each attempt.
+4. **Graph Convolution Mechanisms**: Tune at least three aggregation mechanisms for the graph convolution layer, providing insightful justifications.
 
-5. **Graph Convolution Mechanisms**: Tune at least three aggregation mechanisms for the graph convolution layer, providing insightful justifications.
-
-6. **Up-Sampling**: Address class imbalance by adapting training data preparation for up-sampling the positive class samples.
+5. **Up-Sampling**: Address class imbalance by adapting training data preparation for up-sampling the positive class samples.
 
 **Answer the Questions:**
 
