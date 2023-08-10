@@ -5,7 +5,7 @@ Predict cancer drug potential with data-driven precision. The repo blends ML, bi
 
 Welcome to the Anti-Cancer Activity Prediction project where cutting-edge data science techniques converge with bioinformatics to forecast the potential of chemical compounds against non-small cell lung cancer.
 
-[link](https://www.kaggle.com/competitions/cisc873-dm-w23-a6)
+[competition link](https://www.kaggle.com/competitions/cisc873-dm-w23-a6)
 
 
 **Project Overview:**
